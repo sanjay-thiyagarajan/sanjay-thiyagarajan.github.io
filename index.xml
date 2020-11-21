@@ -6,10 +6,19 @@
     <description>Recent content on Sanjay&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2020 12:14:34 +0600</lastBuildDate>
     
 	<atom:link href="https://sanjay-thiyagarajan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is a hackathon?</title>
+      <link>https://sanjay-thiyagarajan.github.io/blog/post-1/</link>
+      <pubDate>Sat, 21 Nov 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://sanjay-thiyagarajan.github.io/blog/post-1/</guid>
+      <description>A Hackathon is a sprint-like competition where developers come forward with innovative ideas and work for a period of time (usually weekends).</description>
+    </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
@@ -144,15 +153,6 @@
       
       <guid>https://sanjay-thiyagarajan.github.io/trashed/project-9/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>What is a hackathon?</title>
-      <link>https://sanjay-thiyagarajan.github.io/blog/post-1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://sanjay-thiyagarajan.github.io/blog/post-1/</guid>
-      <description>A Hackathon is a sprint-like competition where developers come forward with innovative ideas and work for a period of time (usually weekends).</description>
     </item>
     
   </channel>
