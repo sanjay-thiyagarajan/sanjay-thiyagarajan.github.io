@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sanjay-thiyagarajan.github.io/blog/post-1/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sanjay-thiyagarajan.github.io/posts/post-1/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
@@ -78,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://sanjay-thiyagarajan.github.io/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sanjay-thiyagarajan.github.io/categories/branding/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
@@ -127,10 +137,6 @@
   
   <url>
     <loc>https://sanjay-thiyagarajan.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sanjay-thiyagarajan.github.io/blog/</loc>
   </url>
   
   <url>
