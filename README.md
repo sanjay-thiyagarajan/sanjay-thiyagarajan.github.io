@@ -1,1 +1,0 @@
-# sanjay-thiyagarajan.github.io
