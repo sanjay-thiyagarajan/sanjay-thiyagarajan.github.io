@@ -1,0 +1,23 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: App Development
+  logo: "images/sections/skills/android.png"
+  summary: "Capable of developing full-scale android apps using Java, Kotlin and Dart."
+
+- name: Web Development
+  logo: "images/sections/skills/android.png"
+  summary: "Worked with dynamic web app frameworks like Django, Flask and ReactJS. Capable of designing good user interface using Bootstrap and CSS (Static)"
+
+- name: Deep Learning
+  logo: "images/sections/skills/android.png"
+  summary: "Worked with deep learning frameworks like PyTorch and Tensorflow. Capable of implementing the models into production using Transfer Learning"

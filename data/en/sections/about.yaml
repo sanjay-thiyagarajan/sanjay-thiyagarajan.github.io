@@ -1,0 +1,60 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Undergraduate Student (B.Tech - CSE)
+# your company information
+company:
+  name: Amrita Vishwa Vidyapeetham, Chennai
+  url: "https://www.amrita.edu/school/engineering/chennai"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I'm an inquisitive learner who loves to build software products focused on Social Good, Healthcare, Education and Business Analytics. My areas of interest are in Deep Learning, App Development, MLOps, Blockchain and Web Development."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/sanjay-thiyagarajan"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.twitter.com/sj_codez/"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/sanjay-thiyagarajan-5a558317b/"
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/techwizzie/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 95
+  color: green
+- name: Problem Solving
+  percentage: 80
+  color: "#FF0000"
+- name: UI Designing
+  percentage: 75
+  color: "#964B00"
+- name: Public speaking
+  percentage: 60
+  color: "#8F00FF"

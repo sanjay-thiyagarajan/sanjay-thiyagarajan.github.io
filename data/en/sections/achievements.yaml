@@ -1,0 +1,39 @@
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+
+- title: MLOps for Good Hackathon
+  image: images/sections/achievements/mlops.jpg
+  summary: Third overall in MLOps for Good Hackathon organized by Iguazio, Microsoft and MongoDB
+
+- title: Hubspot CMS / CRM contest
+  image: images/sections/achievements/hubspot.jpg
+  summary: One among the top 15 commercially influential projects
+
+- title: hello:world (CalHacks) Hackathon
+  image: images/sections/achievements/calhacks.jpeg
+  summary: Winner of Education track in CalHacks organized by University of California, Berkeley
+
+- title: Lights Camera Hacktion
+  image: images/sections/achievements/mlh.jpg
+  summary: Winner (Overall) in Lights Camera Hacktion, a cinema-themed hackathon organised by MLH community
+
+- title: Yaadhum Oore Global Conclave Hackathon
+  image: images/sections/achievements/yesist.png
+  summary: First runner-up in Yaadhum Oore Global Conclave Hackathon organized by IEEE YESIST21 and Government of Tamilnadu
+
+- title: HeroHacks
+  image: images/sections/achievements/mlh.jpg
+  summary: Best google cloud implementation in HeroHacks organized by MLH community.
+
+- title: New Friends New Hacks
+  image: images/sections/achievements/mlh.jpg
+  summary: Third overall in New Friends New Hacks organized by MLH Community.

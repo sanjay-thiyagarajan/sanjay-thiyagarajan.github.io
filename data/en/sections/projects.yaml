@@ -1,0 +1,130 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Deep Learning
+  filter: "deep-learning"
+- name: Android Development
+  filter: "android"
+- name: Web App Development
+  filter: "web"
+- name: Data Analytics
+  filter: "data-analytics"
+- name: Computer Vision
+  filter: "computer-vision"
+
+# your projects
+projects:
+- name: GenieNet
+  logo: https://user-images.githubusercontent.com/70621058/133917578-3487427a-c843-48aa-a45e-1460454b9f3d.png
+  role: Developer
+  timeline: "September 2021"
+  repo: https://github.com/sanjay-thiyagarajan/GenieNet
+  summary: A deep learning powered CGI (Computer Generated Imagery) forgery detection using Convolutional Neural Networks and Transfer Learning
+  tags: ["deep-learning", "web"]
+
+- name: Product Score
+  logo: https://user-images.githubusercontent.com/70621058/133917578-3487427a-c843-48aa-a45e-1460454b9f3d.png
+  role: Developer
+  timeline: "September 2021"
+  repo: https://bitbucket.org/sanjay-thiyagarajan/product-score/src/master/
+  summary: A one-stop solution for analysing your apps from the most popular markets like Google Play, App Store and Atlassian Marketplace without the help of an analyst
+  tags: ["web", "data-analytics"]
+
+- name: Deep Shield
+  logo: https://github.com/Mayukhdeb/deep-shield-temp/raw/main/images/banner_large_font.png
+  role: Collaborator
+  timeline: "August 2021"
+  repo: https://github.com/sanjay-thiyagarajan/DeepShield
+  #url: ""
+  summary: Detecting deepfakes using Deep Learning
+  tags: ["deep-learning", "web"]
+
+- name: Credible
+  logo: https://user-images.githubusercontent.com/42594454/122702293-b29f0900-d26c-11eb-8cf8-a330c8ba541a.png
+  role: Developer
+  timeline: "July 2021"
+  repo: https://github.com/sanjay-thiyagarajan/credible/
+  summary: An AI powered data analytics dashboard for your products
+  tags: ["web", "data-analytics"]
+
+- name: Perfect Pause
+  logo: https://user-images.githubusercontent.com/53506835/95672355-bf3b6f80-0bbd-11eb-8fff-c7f4ef6a38ec.png
+  role: Collaborator
+  timeline: "July 2021"
+  repo: https://github.com/sanjay-thiyagarajan/perfect-pause
+  summary: A computer vision based attention monitoring system for cinema fans
+  tags: ["computer-vision"]
+
+- name: AgroAssist
+  logo: https://github.com/sanjay-thiyagarajan/AgroAssist/raw/master/images/flowchart.jpg?raw=true
+  role: Developer
+  timeline: "May 2021"
+  repo: https://github.com/sanjay-thiyagarajan/AgroAssist
+  summary: AgroAssist aims to leverage deep-learning to help farmers diagnose their crops and then seamlessly connect them to experts
+  tags: ["web", "deep-learning"]
+
+- name: Signlingo
+  logo: "https://raw.githubusercontent.com/Mainakdeb/signlingo/main/images/ASL_preprocessing_2.png"
+  role: Developer
+  timeline: "May 2021"
+  repo: https://github.com/sanjay-thiyagarajan/signlingo
+  summary: AgroAssist aims to leverage deep-learning to help farmers diagnose their crops and then seamlessly connect them to experts
+  tags: ["web", "deep-learning"]
+
+- name: Super Resoluter
+  logo: "https://raw.githubusercontent.com/Mainakdeb/signlingo/main/images/ASL_preprocessing_2.png"
+  role: Developer
+  timeline: "May 2021"
+  repo: https://github.com/sanjay-thiyagarajan/super-resoluter
+  summary: AgroAssist aims to leverage deep-learning to help farmers diagnose their crops and then seamlessly connect them to experts
+  tags: ["deep-learning"]
+
+- name: Personally
+  logo: https://github.com/sanjay-thiyagarajan/personally/raw/master/images_and_gifs/Screen%20Capture_select-area_20210214221629.png
+  role: Developer
+  timeline: "March 2021"
+  repo: https://github.com/sanjay-thiyagarajan/personally
+  summary: A BIG5 traits analyzer for your own profile based on keywords
+  tags: ["web", "data-analytics"]
+
+- name: Fashion MNIST Classification
+  logo: https://github.com/sanjay-thiyagarajan/personally/raw/master/images_and_gifs/Screen%20Capture_select-area_20210214221629.png
+  role: Developer
+  timeline: "February 2021"
+  repo: https://github.com/sanjay-thiyagarajan/fashion_mnist
+  summary: My take on the popular Fashion MNIST classification using neural networks
+  tags: ["deep-learning"]
+
+- name: Health Heroes
+  logo: https://user-images.githubusercontent.com/53183532/95013564-b2b79400-065e-11eb-9637-d3bddf3d0894.png
+  role: Developer
+  timeline: "December 2020"
+  repo: https://github.com/sanjay-thiyagarajan/Health-Heroes
+  summary: A digital prescriptions and reports holder
+  tags: ["android"]
+
+- name: Days
+  logo: https://user-images.githubusercontent.com/53183532/95013564-b2b79400-065e-11eb-9637-d3bddf3d0894.png
+  role: Developer
+  timeline: "December 2020"
+  repo: https://github.com/sanjay-thiyagarajan/Days
+  summary: Digital diary for sharing memories
+  tags: ["android"]
+
+- name: ContactMe
+  logo: https://user-images.githubusercontent.com/53506835/96385265-66b53500-11b0-11eb-89d2-a419babf5ef6.png
+  role: Developer
+  timeline: "October 2020"
+  repo: https://github.com/sanjay-thiyagarajan/ContactMe
+  summary: A digital business cards holder based on QR authentication
+  tags: ["android"]

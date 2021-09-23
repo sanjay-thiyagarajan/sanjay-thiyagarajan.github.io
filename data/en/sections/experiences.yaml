@@ -1,0 +1,35 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Toycathon 2021
+    url: "https://toycathon.mic.gov.in/"
+    location: Ministry of Human Resources and Development (MHRD), India
+    overview: Toycathon 2021 is an inter-ministerial initiative organized by Ministry of Education’s Innovation Cell with support from All India Council for Technical Education, Ministry of Women and Child Development, Ministry of Commerce and Industry, Ministry of MSME, Ministry of Textiles and Ministry of Information and Broadcasting. Toycathon 2021 is a unique opportunity for Students, Teachers, Start-ups and Toy experts/professionals in India to submit their innovative toys/games concepts and win large number of prizes worth Rs. 50 lakhs.
+  positions:
+  - designation: Evaluator at Grand Finale
+    start: June 2021
+    end: June 2021
+
+    responsibilities:
+    - Evaluated the projects from three categories - School, College and Entrepreneurship assigned to my panel
+
+- company:
+    name: Cognizance Club
+    url: "https://cognizance-amrita.herokuapp.com/"
+    location: Amrita Vishwa Vidyapeetham, Chennai
+    overview: A student club meant for the development of students in fields like Artificial Intelligence, Cybersecurity and Open Source
+  positions:
+  - designation: President
+    start: December 2020
+    responsibilities:
+    - Coordinating and organising guest lectures, workshops and hands-on sessions on various trending technologies
+    - Training the freshers on various competitions like Hackathons, CTFs and other technical competitions
