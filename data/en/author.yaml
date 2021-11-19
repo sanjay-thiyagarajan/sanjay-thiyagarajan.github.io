@@ -3,7 +3,7 @@ name: "Sanjay Thiyagarajan"
 nickname: "Sanjay"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author.jpeg"
+image: "images/author.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "sanjaythiyagarajan2002@gmail.com"
