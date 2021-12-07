@@ -41,7 +41,7 @@ projects:
   tags: ["web", "data-analytics"]
 
 - name: Deep Shield
-  logo: https://github.com/Mayukhdeb/deep-shield-temp/raw/main/images/banner_large_font.png
+  logo: "images/sections/projects/deepshield.png"
   role: Collaborator
   timeline: "August 2021"
   repo: https://github.com/sanjay-thiyagarajan/DeepShield
@@ -57,14 +57,6 @@ projects:
   summary: An AI powered data analytics dashboard for your products
   tags: ["web", "data-analytics"]
 
-- name: SurfsUp
-  logo: "images/sections/projects/surfup.png"
-  role: Developer
-  timeline: "June 2021"
-  repo: https://github.com/TechieNK/Surfs-Up/
-  summary: A full-fledged surf time risk predictor on the run to save your travel time and your life sometimes
-  tags: ["android"]
-
 - name: Perfect Pause
   logo: https://user-images.githubusercontent.com/53506835/95672355-bf3b6f80-0bbd-11eb-8fff-c7f4ef6a38ec.png
   role: Collaborator
@@ -73,8 +65,16 @@ projects:
   summary: A computer vision based attention monitoring system for cinema fans
   tags: ["computer-vision"]
 
+- name: SurfsUp
+  logo: "images/sections/projects/surfup.png"
+  role: Developer
+  timeline: "June 2021"
+  repo: https://github.com/TechieNK/Surfs-Up/
+  summary: A full-fledged surf time risk predictor on the run to save your travel time and your life sometimes
+  tags: ["android"]
+
 - name: AgroAssist
-  logo: https://github.com/sanjay-thiyagarajan/AgroAssist/raw/master/images/flowchart.jpg?raw=true
+  logo: "images/sections/projects/agroassist.png"
   role: Developer
   timeline: "May 2021"
   repo: https://github.com/sanjay-thiyagarajan/AgroAssist
@@ -82,7 +82,7 @@ projects:
   tags: ["web", "deep-learning"]
 
 - name: Signlingo
-  logo: "https://raw.githubusercontent.com/Mainakdeb/signlingo/main/images/ASL_preprocessing_2.png"
+  logo: "images/sections/projects/signlingo.png"
   role: Developer
   timeline: "May 2021"
   repo: https://github.com/sanjay-thiyagarajan/signlingo
@@ -114,7 +114,7 @@ projects:
   tags: ["deep-learning"]
 
 - name: Health Heroes
-  logo: https://user-images.githubusercontent.com/53183532/95013564-b2b79400-065e-11eb-9637-d3bddf3d0894.png
+  logo: "images/sections/projects/healthheroes.jpeg"
   role: Developer
   timeline: "December 2020"
   repo: https://github.com/sanjay-thiyagarajan/Health-Heroes
@@ -130,7 +130,7 @@ projects:
   tags: ["android"]
 
 - name: ContactMe
-  logo: https://user-images.githubusercontent.com/53506835/96385265-66b53500-11b0-11eb-89d2-a419babf5ef6.png
+  logo: "images/sections/projects/contact.jpeg"
   role: Developer
   timeline: "October 2020"
   repo: https://github.com/sanjay-thiyagarajan/ContactMe
