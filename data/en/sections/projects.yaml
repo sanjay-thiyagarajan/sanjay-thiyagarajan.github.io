@@ -130,7 +130,7 @@ projects:
   tags: ["android"]
 
 - name: ContactMe
-  logo: "images/sections/projects/contact.jpeg"
+  logo: "images/sections/projects/contact.jpg"
   role: Developer
   timeline: "October 2020"
   repo: https://github.com/sanjay-thiyagarajan/ContactMe
