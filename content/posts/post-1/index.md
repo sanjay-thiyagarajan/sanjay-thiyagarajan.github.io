@@ -59,8 +59,10 @@ their hacks in a short video (Mostly it should be less than or equal to 2 minute
 ******
 
 **Where to find**  
-[](https://devpost.com/hackathons)  
-[](https://mlh.io/seasons/2021/events)  
-[](https://devfolio.co/hackathons/)
+> [https://devpost.com/hackathons](https://devpost.com/hackathons)  
+>
+> [https://mlh.io/seasons/2021/events](https://mlh.io/seasons/2021/events)  
+>
+> [https://devfolio.co/hackathons/](https://devfolio.co/hackathons/)
 
 ******
