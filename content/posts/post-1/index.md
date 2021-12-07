@@ -52,13 +52,15 @@ A Hackathon is a sprint-like competition where developers come forward with inno
 ******
 Each member of the team should contribute to any one or two of these roles effectively.
 ******
-**Documentation**
+**Documentation**  
 Even though the hack is well built, it should convey its goal and progress in a crisp and clear manner. Therefore documenting the project properly is equally
 important to the hack. Further, there will be a pitching session at the end of each hackathon where, representatives from the participating teams will present
 their hacks in a short video (Mostly it should be less than or equal to 2 minutes).
 ******
 
-**Where to find**
-[![Alt Text](https://sanjay-thiyagarajan.github.io/images/blog/devpost.jpg)](https://devpost.com/hackathons) | [![Alt Text](https://sanjay-thiyagarajan.github.io/images/blog/mlhh.jpg)](https://mlh.io/seasons/2021/events) | [![Alt Text](https://sanjay-thiyagarajan.github.io/images/blog/devfolio.jpg)](https://devfolio.co/hackathons/)
+**Where to find**  
+[](https://devpost.com/hackathons)  
+[](https://mlh.io/seasons/2021/events)  
+[](https://devfolio.co/hackathons/)
 
 ******
