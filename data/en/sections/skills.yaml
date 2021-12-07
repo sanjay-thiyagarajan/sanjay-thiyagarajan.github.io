@@ -15,9 +15,21 @@ skills:
   summary: "Capable of developing full-scale android apps using Java, Kotlin and Dart."
 
 - name: Web Development
-  logo: "images/sections/skills/android.png"
-  summary: "Worked with dynamic web app frameworks like Django, Flask and ReactJS. Capable of designing good user interface using Bootstrap and CSS (Static)"
+  logo: "images/sections/skills/web.png"
+  summary: "Worked with dynamic web app frameworks like Django, Flask React and Node JS. Capable of designing good user interface using Bootstrap and CSS (Static)"
 
 - name: Deep Learning
-  logo: "images/sections/skills/android.png"
+  logo: "images/sections/skills/dl.png"
   summary: "Worked with deep learning frameworks like PyTorch and Tensorflow. Capable of implementing the models into production using Transfer Learning"
+
+- name: Version Control (VCS)
+  logo: "images/sections/skills/git.png"
+  summary: "Worked frequently using popular VCS like GitHub, GitLab, BitBucket and Gerrit"
+
+- name: API development
+  logo: "images/sections/skills/api.png"
+  summary: "Capable of developing APIs using REST & GraphQL along with authentication best practices"
+
+- name: Linux
+  logo: "images/sections/skills/linux.png"
+  summary: "Working with linux as my development environment on a regular basis. Capable of writing functional shell scripts"

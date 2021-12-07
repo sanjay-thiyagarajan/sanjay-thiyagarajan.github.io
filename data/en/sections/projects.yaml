@@ -25,7 +25,7 @@ buttons:
 # your projects
 projects:
 - name: GenieNet
-  logo: https://user-images.githubusercontent.com/70621058/133917578-3487427a-c843-48aa-a45e-1460454b9f3d.png
+  logo: "images/sections/projects/genie.png"
   role: Developer
   timeline: "September 2021"
   repo: https://github.com/sanjay-thiyagarajan/GenieNet
@@ -33,7 +33,7 @@ projects:
   tags: ["deep-learning", "web"]
 
 - name: Product Score
-  logo: https://user-images.githubusercontent.com/70621058/133917578-3487427a-c843-48aa-a45e-1460454b9f3d.png
+  logo: "images/sections/projects/productscore.png"
   role: Developer
   timeline: "September 2021"
   repo: https://bitbucket.org/sanjay-thiyagarajan/product-score/src/master/
@@ -50,12 +50,20 @@ projects:
   tags: ["deep-learning", "web"]
 
 - name: Credible
-  logo: https://user-images.githubusercontent.com/42594454/122702293-b29f0900-d26c-11eb-8cf8-a330c8ba541a.png
+  logo: "images/sections/projects/credible.png"
   role: Developer
   timeline: "July 2021"
   repo: https://github.com/sanjay-thiyagarajan/credible/
   summary: An AI powered data analytics dashboard for your products
   tags: ["web", "data-analytics"]
+
+- name: SurfsUp
+  logo: "images/sections/projects/surfup.png"
+  role: Developer
+  timeline: "June 2021"
+  repo: https://github.com/TechieNK/Surfs-Up/
+  summary: A full-fledged surf time risk predictor on the run to save your travel time and your life sometimes
+  tags: ["android"]
 
 - name: Perfect Pause
   logo: https://user-images.githubusercontent.com/53506835/95672355-bf3b6f80-0bbd-11eb-8fff-c7f4ef6a38ec.png
@@ -114,7 +122,7 @@ projects:
   tags: ["android"]
 
 - name: Days
-  logo: https://user-images.githubusercontent.com/53183532/95013564-b2b79400-065e-11eb-9637-d3bddf3d0894.png
+  logo: "images/sections/projects/days.png"
   role: Developer
   timeline: "December 2020"
   repo: https://github.com/sanjay-thiyagarajan/Days
