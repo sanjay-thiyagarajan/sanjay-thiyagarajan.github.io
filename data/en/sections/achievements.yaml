@@ -10,6 +10,10 @@ section:
 # Your achievements achievements
 achievements:
 
+- title: AWS Graviton Hackathon
+  image: images/sections/achievements/aws_graviton.png
+  summary: Winner of migration track in AWS Graviton Hackathon organized by Amazon Web Services (AWS) team
+
 - title: MLOps for Good Hackathon
   image: images/sections/achievements/mlops.jpg
   summary: Third overall in MLOps for Good Hackathon organized by Iguazio, Microsoft and MongoDB
