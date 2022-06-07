@@ -10,6 +10,16 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Mitacs
+    url: "https://www.mitacs.ca/en"
+    location: University of Victoria, British Columbia, Canada
+    overview: Mitacs powers research & development creation by connecting private sector with the best post-secondary institutions to solve organizational challenges — in Canada and internationally. For 20 years, Mitacs has funded cutting-edge research, created job opportunities for graduate students and helped companies reach their goals, achieving results that have bolstered the Canadian economy and impact.
+  positions:
+  - designation: Research Intern (Full time - Offline - Fully funded)
+    start: May 2022
+    responsibilities:
+    - The likelihood of developing health problems increases with chronological age, but is also affected by epigenetic factors (e.g., socioeconomic status, nutritional status, lifestyle) that are reflected in one’s biological age. Research on biological age (that is, the molecular and cellular changes associated with aging) is lacking. A better understanding of biological age could potentially provide substantial information to aid decision-making regarding healthy lifestyles, disease management and treatment, and health system design. In this project, we plan to study implication of DNA methylation (a process used in cells to control gene expression regulation) on biological aging and disease progression. We aim to develop a conceptual/theoretical model of the relationship between biological and chronological age, test the model using data, and explore if and how biological age influences health span - the period of life spent in good health.
+- company:
     name: WikiWorks LLC
     url: "https://wikiworks.com/"
     location: WikiWorks, 39 N. Main St., Pennington, New Jersey, USA
