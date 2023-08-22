@@ -15,11 +15,11 @@ Sanjay Thiyagarajan
 <br>  
 
 ##### Organization  
-[https://www.incf.org/](INCF) - International Neuroinformatics Coordinating Facility
+[INCF](https://www.incf.org/) - International Neuroinformatics Coordinating Facility
 <br>  
 
 ##### Project  
-Improving [https://loris.ca/](LORIS) data platform 
+Improving [LORIS](https://loris.ca/) data platform 
 <br>  
 
 ##### Mentors  
@@ -36,11 +36,11 @@ LORIS also makes it easy to manage large datasets acquired over time in a longit
 
 #### Deliverables
 
-> Improving existing LORIS Codebase and API features 
-> Develop additional features based on the need
-> Documentation for the new changes to the pre-existing code and issues
-> Fixes for existing API and module bugs
-> Deliver feature requests based on requirements
+- Improving existing LORIS Codebase and API features 
+- Develop additional features based on the need
+- Documentation for the new changes to the pre-existing code and issues
+- Fixes for existing API and module bugs
+- Deliver feature requests based on requirements
   
 ******  
 
@@ -48,37 +48,37 @@ LORIS also makes it easy to manage large datasets acquired over time in a longit
 
 **May**  
 
-> Getting in touch with the community and understanding the core workflows of LORIS
-> Interacted with mentors and developer community of the project
-> Working on bug fixes and beginner friendly enhancements like documentation PRs
+- Getting in touch with the community and understanding the core workflows of LORIS
+- Interacted with mentors and developer community of the project
+- Working on bug fixes and beginner friendly enhancements like documentation PRs
 
 **June**
 
-> Explored LORIS modules and decided on the list of issues (module-wise) to fix during the summer
-> Helped with few minor fixes to 24.0 release like permission issues, problematic filter component fixes, etc.,
+- Explored LORIS modules and decided on the list of issues (module-wise) to fix during the summer
+- Helped with few minor fixes to 24.0 release like permission issues, problematic filter component fixes, etc.,
 
 
 **July**
 
-> Worked on fixing issues based on "Issue Tracker" module of LORIS
-> Made fixes for urgent issues related to the 25.0 release.
-> Started working on more complex issues which include database table modification, API interaction issues and user experience problems.  
+- Worked on fixing issues based on "Issue Tracker" module of LORIS
+- Made fixes for urgent issues related to the 25.0 release.
+- Started working on more complex issues which include database table modification, API interaction issues and user experience problems.  
 
 **August**
 
-> Updated the pull requests based on the suggestions provided by the reviewers and got them merged
-> Worked on a few more issues related to field migration for issue table and updated the Raisinbread scripts for the same.
-> Closed all the planned issues with appropriate fixes
+- Updated the pull requests based on the suggestions provided by the reviewers and got them merged
+- Worked on a few more issues related to field migration for issue table and updated the Raisinbread scripts for the same.
+- Closed all the planned issues with appropriate fixes
   
 ******  
 
 #### My Merged Pull Requests  
-The [https://github.com/aces/Loris/pulls?q=is%3Amerged+is%3Apr+author%3Asanjay-thiyagarajan](list) on GitHub  
+The [list](https://github.com/aces/Loris/pulls?q=is%3Amerged+is%3Apr+author%3Asanjay-thiyagarajan) on GitHub  
 
 #### My Open Pull Requests  
 These PRs are currently under review and will be merged in a few weeks.  
 
-[https://github.com/aces/Loris/pulls/sanjay-thiyagarajan](View Open Pull Requests)
+[View Open Pull Requests](https://github.com/aces/Loris/pulls/sanjay-thiyagarajan)
 
 
 #### Presentation to the Team  
